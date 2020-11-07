@@ -9,14 +9,13 @@
  <a href="#projeto">Projeto</a> |
  <a href="#funcionalidades">Funcionalidades</a> | 
  <a href="#tecnologias">Tecnologias utilizadas</a> | 
- <a href="#instalacao">Instalação</a> |
- <a href="#autor">Autor</a>
+ <a href="#instalacao">Instalação</a>
 </p>
 
 # <a name="projeto">:computer: Projeto<a>
 Ecoleta é um projeto com o tema "ecologia" desenvolvido na primeira semana da NextLevelWeek, ministrado pela RocketSeat.
 
-# :rocket: Functionalidades
+# <a name="funcionalidades">:rocket: Functionalidades<a>
 * Cadastro de pontos de coleta
 * Consulta filtrada dos ponto de coleta no mapa
 * Consulta detalhada do ponto de coleta
@@ -25,7 +24,7 @@ Ecoleta é um projeto com o tema "ecologia" desenvolvido na primeira semana da N
 
 
 
-# :hammer: Tecnologias utilizadas
+# <a name="tecnologias">:hammer: Tecnologias utilizadas<a>
 * Typescript
 * NodeJS
 * Express
@@ -37,7 +36,7 @@ Ecoleta é um projeto com o tema "ecologia" desenvolvido na primeira semana da N
 * Multer
 * SQLite
 
-# :fire: Instalação
+# <a name="instalacao">:fire: Instalação<a>
 ```
 # Clone este repositório
 $ git clone git@github.com/rodrigo-b-silva/ecoleta-nlw1.git
