@@ -5,7 +5,15 @@
   <img src="https://github.com/rodrigo-b-silva/ecoleta-nlw1/blob/master/.github/home.png" width="300">
 </p>
 
-# :computer: Projeto
+<p align="center">
+ <a href="#projeto">Projeto</a> |
+ <a href="#funcionalidades">Funcionalidades</a> | 
+ <a href="#tecnologias">Tecnologias utilizadas</a> | 
+ <a href="#instalacao">Instalação</a> |
+ <a href="#autor">Autor</a>
+</p>
+
+# <a name="projeto">:computer: Projeto<a>
 Ecoleta é um projeto com o tema "ecologia" desenvolvido na primeira semana da NextLevelWeek, ministrado pela RocketSeat.
 
 # :rocket: Functionalidades
